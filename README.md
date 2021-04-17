@@ -1,5 +1,7 @@
-go-todotxt
+todotxt
 ==========
+
+Fork of https://github.com/JamesClonk/go-todotxt as a go module.
 
 A Go todo.txt library.  
 
@@ -10,7 +12,7 @@ It allows for parsing and manipulating of task lists and tasks in the todo.txt f
 
 ## Installation
 
-	$ go get github.com/JamesClonk/go-todotxt
+	$ go get github.com/treethought/todotxt
 
 ## Requirements
 
